@@ -21,6 +21,7 @@ This is the repo for the book management system assignment for netzet.
 - Data Validation is also implemented.
 - Implemented custom exception filters for error handling.
 - Wrote test cases to satisfy the testing requirements of both unit tests and end-to-end tests.
+- All in all, fulfilled all the requirements.
 
 Thank you. Hope you have a good day.
 
